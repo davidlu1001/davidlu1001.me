@@ -270,7 +270,7 @@ tag_icon: false
 # Front-matter variable (nonsupport animation).
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
-  enable: false
+  enable: true
   animation: false
   #comment: Buy me a coffee
 
@@ -283,7 +283,7 @@ reward:
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
-  WeChat: /images/wechat_channel.jpg || fab fa-weixin
+  WeChat: /images/wechat_channel.png || fab fa-weixin
   Twitter: https://twitter.com/davidlu1001 || fab fa-twitter
   Telegram: https://t.me/NiHao_World || fab fa-telegram
   RSS: /atom.xml || fa fa-rss
@@ -350,7 +350,7 @@ text_align:
   mobile: justify
 
 # Reduce padding / margin indents on devices with narrow width.
-mobile_layout_economy: false
+mobile_layout_economy: true
 
 # Browser header panel color.
 theme_color:
@@ -472,7 +472,7 @@ font:
 
 # If true, site-subtitle will be added to index page.
 # Remember to set up your site-subtitle in Hexo `_config.yml` (e.g. subtitle: Subtitle)
-index_with_subtitle: false
+index_with_subtitle: true
 
 # Automatically add external URL with Base64 encrypt & decrypt.
 exturl: false
@@ -543,7 +543,7 @@ lazyload: true
 # Pangu Support
 # For more information: https://github.com/vinta/pangu.js
 # Server-side plugin: https://github.com/next-theme/hexo-pangu
-pangu: false
+pangu: true
 
 # Quicklink Support
 # For more information: https://getquick.link
@@ -623,11 +623,11 @@ livere_uid: # <your_uid>
 # For more information: https://gitalk.github.io
 gitalk:
   enable: false
-  github_id: # GitHub repo owner
-  repo: # Repository name to store issues
-  client_id: # GitHub Application Client ID
-  client_secret: # GitHub Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  github_id: davidlu1001 # GitHub repo owner
+  repo: davidlu1001.me # Repository name to store issues
+  client_id: 111ab33bdd4cc87ce2c5 # GitHub Application Client ID
+  client_secret: 27a9a97a5dbe1da4165d2806b96ad226c299f0e0 # GitHub Application Client Secret
+  admin_user: davidu1001 # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
   proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
