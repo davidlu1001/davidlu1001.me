@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>流浪在纽村</title>
-  <icon>https://davidlu1001.github.io/davidlu1001.me/icon.png</icon>
+  <icon>https://davidlu1001.me/icon.png</icon>
   
-  <link href="https://davidlu1001.github.io/davidlu1001.me/atom.xml" rel="self"/>
+  <link href="https://davidlu1001.me/atom.xml" rel="self"/>
   
-  <link href="https://davidlu1001.github.io/davidlu1001.me/"/>
+  <link href="https://davidlu1001.me/"/>
   <updated>2022-02-16T09:51:05.907Z</updated>
-  <id>https://davidlu1001.github.io/davidlu1001.me/</id>
+  <id>https://davidlu1001.me/</id>
   
   <author>
     <name>流浪在纽村</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://davidlu1001.github.io/davidlu1001.me/2022/02/16/hello-world/"/>
-    <id>https://davidlu1001.github.io/davidlu1001.me/2022/02/16/hello-world/</id>
+    <link href="https://davidlu1001.me/2022/02/16/hello-world/"/>
+    <id>https://davidlu1001.me/2022/02/16/hello-world/</id>
     <published>2022-02-16T09:51:05.907Z</published>
     <updated>2022-02-16T09:51:05.907Z</updated>
     
