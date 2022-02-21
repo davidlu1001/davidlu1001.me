@@ -102,7 +102,7 @@ menu:
   categories: /categories/ || fa fa-th
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
-  #sitemap: /sitemap.xml || fa fa-sitemap
+  sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
@@ -933,6 +933,17 @@ topindex_generator:
 #auto_category:
 #  enable: true
 #  depth: 1 #生成到第几级目录分类
+
+# hexo-all-minifier
+all_minifier: true
+
+# hexo-filter-nofollow
+nofollow:
+  enable: true
+  field: site
+#  exclude:
+#    - 'exclude1.com'
+#    - 'exclude2.com'
 
 # Assets
 # Accelerate delivery of static files using a CDN
