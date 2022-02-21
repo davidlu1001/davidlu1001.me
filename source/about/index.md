@@ -20,7 +20,7 @@ date: 2022-02-17 01:04:27
 
 ![](https://raw.githubusercontent.com/davidlu1001/davidlu1001.github.io/hexo/uPic/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81_%E5%BE%AE%E4%BF%A1%E6%90%9C%E4%B8%80%E6%90%9C.jpeg)
 
-欢迎关注我的其它发布渠道：
+其他联系方式：
 
 - Telegram：[@Nihao_World](https://t.me/NiHao_World)
 - Twitter：[@davidlu1001](https://twitter.com/davidlu1001)

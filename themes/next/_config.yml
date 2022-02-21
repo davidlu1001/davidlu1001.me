@@ -924,6 +924,16 @@ vendors:
   # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
   custom_cdn_url:
 
+# Top index
+topindex_generator:
+  per_page: 10 #Posts displayed per page. (0 = disable pagination)
+  order_by: -date #Posts order. (Order by date descending by default)
+
+## Auto Category
+#auto_category:
+#  enable: true
+#  depth: 1 #生成到第几级目录分类
+
 # Assets
 # Accelerate delivery of static files using a CDN
 # The js option is only valid when vendors.internal is local.
